@@ -185,6 +185,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://th.bing.com/th/id/OIP.CSt3K90cxjLnnNtlgerMBwHaHa?rs=1&pid=ImgDetMain",
+    imgCer:"https://github.com/Devansh-13/My-Intro/assets/123819386/6d63a31a-37fe-4d21-8a9b-31ba30497458",
     role: "Python Intern",
     company: "Sync Intern's",
     date: "July 2023 - August 2023",
@@ -322,7 +323,7 @@ export const projects = [
     description:
       " Developed an E-commerce Application, facilitating seamless user interaction with features like cart management, reviews, wishlists, and seller/buyer dashboards, resulting in a 20% increase in user engagement.Integrated MongoDB for efficient data management, resulting in a 40% reduction in database query time. Utilized Express.js to create robust backend APIs, ensuring reliable and secure data handling",
     image:
-      "https://private-user-images.githubusercontent.com/123819386/324255674-8fd9bec8-1469-4fe2-8d4a-b037ea0cd43a.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM4NjgyNDIsIm5iZiI6MTcxMzg2Nzk0MiwicGF0aCI6Ii8xMjM4MTkzODYvMzI0MjU1Njc0LThmZDliZWM4LTE0NjktNGZlMi04ZDRhLWIwMzdlYTBjZDQzYS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQyMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MjNUMTAyNTQyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjBmYWFmMDBmZTMyNmQ3NWFhNmE3NDljMmIzZWIzMzE3ZGVmYTBhZWRlYmNlYzI3Nzc1NzAyZWY3OGY5N2I3NyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.ORHdTsLRl1Qpo4q_aM2TLfsKcHr_jSFQRyhSRAnI5eI",
+      "https://github.com/Devansh-13/My-Intro/assets/123819386/95d4cc56-56ee-4c3a-9a6e-cb095a538212",
     tags: [
       "MongoDb",
       "ExpressJs",
@@ -359,12 +360,25 @@ export const projects = [
     description:
     " Created a visually appealing platform enabling users to view a 15-day weather forecast for any location. Seamlessly integrated the Fetch API, enabling smooth retrieval, reducing data retrieval time by 50%, and ensuring the real-time display of weather data, thereby enhancing user experience.",
     image:
-    "https://private-user-images.githubusercontent.com/123819386/324257534-82559178-9905-421b-9448-66abb0905e7d.jpeg",
+    "https://github.com/Devansh-13/My-Intro/assets/123819386/5214a12c-36ca-4d41-af67-b72d58409f3b",
     tags: ["HTML", "CSS", "Javascript", "FETCH API", "Application Programming Interface"],
     category: "web app",
     github: "https://github.com/Devansh-13/Apna-Weather-API",
-    webapp: "https://brain-tumor.netlify.app/",
+    webapp: "https://apna-weather-2oqlruy7e-devansh-kumars-projects.vercel.app/",
     
+  },
+  {
+    id: 3,
+    title: "Comic Arena",
+    date: "Mar 2024 - Present",
+    description:
+      "Welcome to Comic Universe! Dive into a world of captivating adventures and colorful characters. Browse our curated collection of comics spanning various genres. Experience seamless navigation and dynamic content updates with our intuitive user interface. Immerse yourself in the magic of storytelling and unleash your imagination like never before!",
+    image:
+      "https://github.com/Devansh-13/My-Intro/assets/123819386/4fd0799d-4aa6-4697-a31b-5e4cee5ed0e5",
+    tags: ["HTML", "CSS", "Javascript", "FETCH API", "Application Programming Interface"],
+    category: "web app",
+    github: "https://github.com/Devansh-13/Comic-Character-UI",
+    webapp: "https://comic-character-ui.vercel.app/",
   },
   {
     id: 1,
@@ -373,7 +387,7 @@ export const projects = [
     description:
       "Developed the backened of a comprehensive Voting application that comprises sections dedicated to candidates and voters. Within the application, voters are able to register and log in securely, granting them access to cast their votes for their preferred candidates. The list of candidates is prominently showcased within the app, facilitating easy selection for voters. This user-friendly design ensures a smooth and efficient voting process for all users involved.",
     image:
-      "https://private-user-images.githubusercontent.com/123819386/324258022-7850c972-2bb7-4cca-bd78-6371558f872d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM3MTI5OTcsIm5iZiI6MTcxMzcxMjY5NywicGF0aCI6Ii8xMjM4MTkzODYvMzI0MjU4MDIyLTc4NTBjOTcyLTJiYjctNGNjYS1iZDc4LTYzNzE1NThmODcyZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQxNTE4MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZjFmMTZkYTI2NGZjYTQyYzY5MWFhMmVkMjY2MzZlNzVjMzY2ODNmNDI4MWUyNDUwNjI4MWZlYzljN2Y5MGY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.8VyTeLC-P_Qfh9uwR40H3d612uXAoOpPf4bouFFxMLU",
+      "https://github.com/Devansh-13/My-Intro/assets/123819386/35e9663c-b253-4733-ace8-2ea7abb9a5cd",
     tags: [
       "MongoDb",
       "Node Js",
@@ -385,19 +399,6 @@ export const projects = [
     github: "https://github.com/Devansh-13/Voting-App",
     webapp: "https://vexa-app.netlify.app/",
   },
-  // {
-  //   id: 3,
-  //   title: "Buckoid",
-  //   date: "Dec 2021 - Apr 2022",
-  //   description:
-  //     "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-  //   image:
-  //     "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-  //   tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Buckoid-Android-App",
-  //   webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  // },
   // {
   //   id: 10,
   //   title: "Job Finding App",
