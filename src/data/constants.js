@@ -322,7 +322,7 @@ export const projects = [
     description:
       " Developed an E-commerce Application, facilitating seamless user interaction with features like cart management, reviews, wishlists, and seller/buyer dashboards, resulting in a 20% increase in user engagement.Integrated MongoDB for efficient data management, resulting in a 40% reduction in database query time. Utilized Express.js to create robust backend APIs, ensuring reliable and secure data handling",
     image:
-      "https://private-user-images.githubusercontent.com/123819386/324255674-8fd9bec8-1469-4fe2-8d4a-b037ea0cd43a.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM3MTA5NTksIm5iZiI6MTcxMzcxMDY1OSwicGF0aCI6Ii8xMjM4MTkzODYvMzI0MjU1Njc0LThmZDliZWM4LTE0NjktNGZlMi04ZDRhLWIwMzdlYTBjZDQzYS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQyMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MjFUMTQ0NDE5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGJlZWZkNmRmY2Q2YWU1OGM0OWE3YTQ3YWUwNWRhMWQxMWUzOTljYzIzMGY1NmU3OTgyYzkzMzk3YjJjMzNjZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.2PPT9rA0mBd8fUSb4OgOXov6HX9TtH5Atwp41pRSZno",
+      "https://private-user-images.githubusercontent.com/123819386/324255674-8fd9bec8-1469-4fe2-8d4a-b037ea0cd43a.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM4NjgyNDIsIm5iZiI6MTcxMzg2Nzk0MiwicGF0aCI6Ii8xMjM4MTkzODYvMzI0MjU1Njc0LThmZDliZWM4LTE0NjktNGZlMi04ZDRhLWIwMzdlYTBjZDQzYS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQyMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MjNUMTAyNTQyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjBmYWFmMDBmZTMyNmQ3NWFhNmE3NDljMmIzZWIzMzE3ZGVmYTBhZWRlYmNlYzI3Nzc1NzAyZWY3OGY5N2I3NyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.ORHdTsLRl1Qpo4q_aM2TLfsKcHr_jSFQRyhSRAnI5eI",
     tags: [
       "MongoDb",
       "ExpressJs",
@@ -345,7 +345,7 @@ export const projects = [
     description:
       " Developed a user-friendly blogging platform, aimed to support increased indigenous content creation.Leveraged the dynamic capabilities of Node.js runtime environment alongside the robust functionalities offered by Express.js to ensure smooth server-side operations, thereby ensuring uninterrupted performance.Used MongoDB for efficient database management, storing documents to ensure scalability and performance.",
     image:
-      "https://private-user-images.githubusercontent.com/123819386/324258211-8f4e8ab0-52fe-41d2-8e9c-1f703c156ef1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM3MTMxNjcsIm5iZiI6MTcxMzcxMjg2NywicGF0aCI6Ii8xMjM4MTkzODYvMzI0MjU4MjExLThmNGU4YWIwLTUyZmUtNDFkMi04ZTljLTFmNzAzYzE1NmVmMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQxNTIxMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYmE1YjM2NWUxYWE4MGMyY2RlZjk5ZGZlZTQ4YWNmYTVjMzNjOWM2NjFhYmFkZTdhZjYyNjUzZjVmNTdiMGIzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.WgLTmswQm9Fkze8vlj58YNQEdpLLudRab5o1zKPFUmU",
+      "https://github.com/Devansh-13/My-Intro/assets/123819386/5b11ff47-2168-48c4-8be6-ed2c7eaf503b",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "HTML","CSS","Javascript"],
     category: "web app",
     github: "https://github.com/Devansh-13/Blog-Website-ee-",
@@ -359,7 +359,7 @@ export const projects = [
     description:
     " Created a visually appealing platform enabling users to view a 15-day weather forecast for any location. Seamlessly integrated the Fetch API, enabling smooth retrieval, reducing data retrieval time by 50%, and ensuring the real-time display of weather data, thereby enhancing user experience.",
     image:
-    "https://private-user-images.githubusercontent.com/123819386/324257534-82559178-9905-421b-9448-66abb0905e7d.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM3MTI1NTYsIm5iZiI6MTcxMzcxMjI1NiwicGF0aCI6Ii8xMjM4MTkzODYvMzI0MjU3NTM0LTgyNTU5MTc4LTk5MDUtNDIxYi05NDQ4LTY2YWJiMDkwNWU3ZC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDQyMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA0MjFUMTUxMDU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTcwMTc4NDE4M2Q2OTQyMzUyYzA2OGQ3NWIzMGI3MzQ4MDE5NDhjMzVhZGI5ZGNhZTg0NzMzYThjOTkzZDY3ZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.7KO5fnXPodAiAAbxWWc8YD6T87jZ0JxqoTriLSzGwME",
+    "https://private-user-images.githubusercontent.com/123819386/324257534-82559178-9905-421b-9448-66abb0905e7d.jpeg",
     tags: ["HTML", "CSS", "Javascript", "FETCH API", "Application Programming Interface"],
     category: "web app",
     github: "https://github.com/Devansh-13/Apna-Weather-API",
@@ -481,7 +481,7 @@ export const projects = [
 export const TimeLineData = [
   { year: 2021, text: "Started my journey" },
   { year: 2023, text: "Practisced Data Structures & Algorithms" },
-  { year: 2024, text: "Learnt MERN technologies" },
-  { year: 2020, text: "Shared my projects with the world" },
+  { year: 2023, text: "Learnt MERN technologies" },
+  { year: 2024, text: "Shared my projects with the world" },
   // { year: 2021, text: "Started my own platform" },
 ];
