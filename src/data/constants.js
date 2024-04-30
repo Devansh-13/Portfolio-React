@@ -381,6 +381,19 @@ export const projects = [
     webapp: "https://comic-character-ui.vercel.app/",
   },
   {
+    id: 10,
+    title: "Todo App",
+    date: "Apr 2024 - Apr 2024",
+    description:
+      "Experience the elegance of productivity with our meticulously crafted todo app. Seamlessly manage your tasks with intuitive animations that bring your todos to life. With Redux powering the backend and captivating animations enhancing the user experience, staying organized has never been more delightful.",
+    image:
+      "https://github.com/Devansh-13/My-Intro/assets/123819386/cb4832e8-5a00-4367-ae2f-0d67a1f52f89",
+    tags: ["React Js", "Redux/Redux Toolkit", "HTML","CSS","Javascript"],
+    category: "web app",
+    github: "https://github.com/Devansh-13/Todo-app",
+    webapp: "https://todo-app-omega-eosin.vercel.app/",
+  },
+  {
     id: 1,
     title: "Voting Application",
     date: "Apr 2024 - Apr 2024",
@@ -399,19 +412,6 @@ export const projects = [
     github: "https://github.com/Devansh-13/Voting-App",
     webapp: "https://vexa-app.netlify.app/",
   },
-  // {
-  //   id: 10,
-  //   title: "Job Finding App",
-  //   date: "Jun 2023 - Jul 2023",
-  //   description:
-  //     "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-  //   tags: ["React Native", "JavaScript", "Axios"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Job-finder-App",
-  //   webapp: "https://github.com/rishavchanda/Job-finder-App",
-  // },
   // {
   //   id: 4,
   //   title: "Whatsapp Clone",
